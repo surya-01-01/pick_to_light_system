@@ -19,10 +19,4 @@ A warehouse assistance system that visually guides operators using LEDs and butt
 - Managed power via SSD state control
 - Designed scalable firmware logic for expanded rack support
 
-## 🔌 Schematic
-*(Include a circuit diagram image here if available)*
 
-## 💻 Demo
-*(Optional: Include GIFs/screenshots or a YouTube link if you recorded demo)*
-
-## 📁 File Structure
